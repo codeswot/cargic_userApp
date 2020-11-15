@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420590701446",
+    "firebase_url": "https://cargicapp.firebaseio.com",
+    "project_id": "cargicapp",
+    "storage_bucket": "cargicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420590701446:android:a3043c1b38a38b88dd3a07",
+        "android_client_info": {
+          "package_name": "com.geeksaxis.cargig_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420590701446-8msiakv43htpt6mvlnmh1enhj6bonf74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geeksaxis.cargig_user_app",
+            "certificate_hash": "dc67a09c4e5b1196c5ee486adacaa16a3cdc6039"
+          }
+        },
+        {
+          "client_id": "420590701446-45nd4ovjlqj11qfkp7858kc1v9g3vcpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfHWBVIpzsSYpWWgeYRih4rKBppNk3LgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420590701446-45nd4ovjlqj11qfkp7858kc1v9g3vcpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
