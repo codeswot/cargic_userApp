@@ -1,0 +1,47 @@
+name: cargig_user_app
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+# packages // front end
+  cupertino_icons: ^1.0.0
+# packages //back end
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+# image assets
+  assets:
+    - images/
+  
+#  font assets
+  fonts:
+    - family: Niramit
+      fonts:
+        - asset: fonts/Niramit-Regular.ttf
+        - asset: fonts/Niramit-Italic.ttf
+        - asset: fonts/Niramit-Bold.ttf
+  #         style: italic
+    - family: Nunito
+      fonts:
+        - asset: fonts/Nunito-Regular.ttf
+        - asset: fonts/Nunito-Italic.ttf
+        - asset: fonts/Nunito-Bold.ttf
+
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
